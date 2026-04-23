@@ -80,4 +80,5 @@ Bu tasarım ile:
 
 Aşağıda sistemin UML Class Diagram görseli yer almaktadır:
 
-![UML Diagram](./diagram.png)
+<img width="1040" height="742" alt="image" src="https://github.com/user-attachments/assets/30ad60be-353e-4f8d-8184-9ef4306849d3" />
+
